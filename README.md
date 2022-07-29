@@ -4,6 +4,8 @@ Testing Piscina NPM Package
 # Package URL
 https://www.npmjs.com/package/piscina
 
+<img src="https://www.nearform.com/wp-content/uploads/2020/05/image3.png" />
+
 ## Table of Contents
 
 - [About](#about)
