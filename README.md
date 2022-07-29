@@ -1,5 +1,8 @@
-# workers
+# Piscina -> workers
 Testing Piscina NPM Package
+
+# Package URL
+https://www.npmjs.com/package/piscina
 
 ## Table of Contents
 
